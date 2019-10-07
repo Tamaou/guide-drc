@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Dark Reach Citadel Guide",
+    "author": "teralove(managed by Tamaou)",
+    "description": "Dark Reach Citadel Guide",
+    "options": {
+        "niceName": "DRC-Guide"
+    },
+    "servers": ["https://raw.githubusercontent.com/Tamaou/guide-drc/master/"]
+}
