@@ -2,7 +2,7 @@
     "files": {
         "README.md": "a7a21b0113b09c0282ce5ff34f78d5dc4cc7e0679ecf1a782ff6a50b2325230b",
         "config.json": "699f7c4dcbb573b4faa936d385e1863c0e3da18b68f1c1cadb152d269132627f",
-        "index.js": "4cf1261b343f2e5f2ff1b43ef1f19436ea136bab78bab347179e5115d4c135bc",
+        "index.js": "cb49af98e5c45d136b706375978f11d299189989685f700ddb8cd34728b6e4e3",
         "module.json": "4a81333ffeed1ddb28625f0ffe6451e3be4124cdfcba635c268b43141631abf2"
     },
     "defs": {
@@ -15,7 +15,7 @@
         "S_DESPAWN_DROPITEM": 4,
         "S_DUNGEON_EVENT_MESSAGE": 2,
         "S_LOAD_TOPO": 3,
-        "S_LOGIN": 13,
+        "S_LOGIN": 14,
         "S_SPAWN_BUILD_OBJECT": 2,
         "S_SPAWN_COLLECTION": 4,
         "S_SPAWN_DROPITEM": 8
